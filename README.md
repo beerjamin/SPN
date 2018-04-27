@@ -22,6 +22,7 @@ The substitution step uses an 8-bit P-box, which does a cyclic 2-bit left-shift 
 
 **Build using cmake**
 ```
+* mkdir build
 * cd build
 * cmake ..
 * make
